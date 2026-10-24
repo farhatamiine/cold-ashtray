@@ -1,0 +1,3217 @@
+{
+  "generatedAt": "2026-10-23T22:47:27.689919+00:00",
+  "count": 60,
+  "assetCount": 102,
+  "featuredIds": [
+    "1792278928",
+    "1773782597",
+    "1766180595",
+    "1775860703",
+    "1777074656",
+    "1772847752",
+    "1771334444",
+    "1770936249",
+    "1766182753",
+    "1786752874",
+    "1784508106",
+    "1772494476",
+    "1766180788",
+    "1766182371",
+    "1772158987",
+    "1784856889"
+  ],
+  "posts": [
+    {
+      "id": "1792774744",
+      "date": "2026-10-23",
+      "timestamp": 1792774744,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1792774744-4014407603186199993.webp",
+        "thumb": "/art/thumb/1792774744-4014407603186199993.webp",
+        "width": 1837,
+        "height": 2400,
+        "originalWidth": 3136,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1792774744_4014407603186199993_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-10-23."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1792774744-4014407603186199993.webp",
+          "thumb": "/art/thumb/1792774744-4014407603186199993.webp",
+          "width": 1837,
+          "height": 2400,
+          "originalWidth": 3136,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1792774744_4014407603186199993_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-10-23."
+        }
+      ]
+    },
+    {
+      "id": "1792278928",
+      "date": "2026-10-17",
+      "timestamp": 1792278928,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 0,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1792278928-4010248632808380257.webp",
+        "thumb": "/art/thumb/1792278928-4010248632808380257.webp",
+        "width": 784,
+        "height": 1040,
+        "originalWidth": 784,
+        "originalHeight": 1040,
+        "filename": "cold.ashtray_1792278928_4010248632808380257_78428278766.jpg",
+        "alt": "Three anatomical heads bound together with dark red cords."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1792278928-4010248632808380257.webp",
+          "thumb": "/art/thumb/1792278928-4010248632808380257.webp",
+          "width": 784,
+          "height": 1040,
+          "originalWidth": 784,
+          "originalHeight": 1040,
+          "filename": "cold.ashtray_1792278928_4010248632808380257_78428278766.jpg",
+          "alt": "Three anatomical heads bound together with dark red cords."
+        }
+      ]
+    },
+    {
+      "id": "1786752874",
+      "date": "2026-08-15",
+      "timestamp": 1786752874,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 9,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1786752874-3963891684404296773.webp",
+        "thumb": "/art/thumb/1786752874-3963891684404296773.webp",
+        "width": 1800,
+        "height": 2400,
+        "originalWidth": 3072,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1786752874_3963891684404296773_78428278766.jpg",
+        "alt": "A seated woman in a flowing dress rendered in graphite."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1786752874-3963891684404296773.webp",
+          "thumb": "/art/thumb/1786752874-3963891684404296773.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1786752874_3963891684404296773_78428278766.jpg",
+          "alt": "A seated woman in a flowing dress rendered in graphite."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1786752874-3963891700258588096.webp",
+          "thumb": "/art/thumb/1786752874-3963891700258588096.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1786752874_3963891700258588096_78428278766.jpg",
+          "alt": "A seated woman in a flowing dress rendered in graphite."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1786752874-3963891710442425463.webp",
+          "thumb": "/art/thumb/1786752874-3963891710442425463.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1786752874_3963891710442425463_78428278766.jpg",
+          "alt": "A seated woman in a flowing dress rendered in graphite."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1786752874-3963891718277311724.webp",
+          "thumb": "/art/thumb/1786752874-3963891718277311724.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1786752874_3963891718277311724_78428278766.jpg",
+          "alt": "A seated woman in a flowing dress rendered in graphite."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1786752874-3963891730038233576.webp",
+          "thumb": "/art/thumb/1786752874-3963891730038233576.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1786752874_3963891730038233576_78428278766.jpg",
+          "alt": "A seated woman in a flowing dress rendered in graphite."
+        }
+      ]
+    },
+    {
+      "id": "1784856889",
+      "date": "2026-07-24",
+      "timestamp": 1784856889,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 15,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1784856889-3947988125116786327.webp",
+        "thumb": "/art/thumb/1784856889-3947988125116786327.webp",
+        "width": 1800,
+        "height": 2400,
+        "originalWidth": 3072,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1784856889_3947988125116786327_78428278766.jpg",
+        "alt": "A small room with an empty framed opening."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1784856889-3947988125116786327.webp",
+          "thumb": "/art/thumb/1784856889-3947988125116786327.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1784856889_3947988125116786327_78428278766.jpg",
+          "alt": "A small room with an empty framed opening."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1784856889-3947988129965386485.webp",
+          "thumb": "/art/thumb/1784856889-3947988129965386485.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1784856889_3947988129965386485_78428278766.jpg",
+          "alt": "A small room with an empty framed opening."
+        }
+      ]
+    },
+    {
+      "id": "1784656547",
+      "date": "2026-07-21",
+      "timestamp": 1784656547,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1784656547-3946307557907870733.webp",
+        "thumb": "/art/thumb/1784656547-3946307557907870733.webp",
+        "width": 1003,
+        "height": 1337,
+        "originalWidth": 1003,
+        "originalHeight": 1337,
+        "filename": "cold.ashtray_1784656547_3946307557907870733_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-07-21."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1784656547-3946307557907870733.webp",
+          "thumb": "/art/thumb/1784656547-3946307557907870733.webp",
+          "width": 1003,
+          "height": 1337,
+          "originalWidth": 1003,
+          "originalHeight": 1337,
+          "filename": "cold.ashtray_1784656547_3946307557907870733_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-21."
+        }
+      ]
+    },
+    {
+      "id": "1784508107",
+      "date": "2026-07-20",
+      "timestamp": 1784508107,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1784508107-3945062232366963467.webp",
+        "thumb": "/art/thumb/1784508107-3945062232366963467.webp",
+        "width": 1809,
+        "height": 2400,
+        "originalWidth": 3088,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1784508107_3945062232366963467_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-07-20."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1784508107-3945062232366963467.webp",
+          "thumb": "/art/thumb/1784508107-3945062232366963467.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1784508107_3945062232366963467_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-20."
+        }
+      ]
+    },
+    {
+      "id": "1784508106",
+      "date": "2026-07-20",
+      "timestamp": 1784508106,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 10,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1784508106-3945062239060962026.webp",
+        "thumb": "/art/thumb/1784508106-3945062239060962026.webp",
+        "width": 1809,
+        "height": 2400,
+        "originalWidth": 3088,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1784508106_3945062239060962026_78428278766.jpg",
+        "alt": "A hooded figure smoking, the face split into anatomical layers."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1784508106-3945062239060962026.webp",
+          "thumb": "/art/thumb/1784508106-3945062239060962026.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1784508106_3945062239060962026_78428278766.jpg",
+          "alt": "A hooded figure smoking, the face split into anatomical layers."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1784508106-3945062247114008078.webp",
+          "thumb": "/art/thumb/1784508106-3945062247114008078.webp",
+          "width": 1804,
+          "height": 2400,
+          "originalWidth": 3078,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1784508106_3945062247114008078_78428278766.jpg",
+          "alt": "A hooded figure smoking, the face split into anatomical layers."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1784508106-3945062248338892333.webp",
+          "thumb": "/art/thumb/1784508106-3945062248338892333.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3024,
+          "originalHeight": 4032,
+          "filename": "cold.ashtray_1784508106_3945062248338892333_78428278766.jpg",
+          "alt": "A hooded figure smoking, the face split into anatomical layers."
+        }
+      ]
+    },
+    {
+      "id": "1783729614",
+      "date": "2026-07-11",
+      "timestamp": 1783729614,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1783729614-3938531754113530644.webp",
+        "thumb": "/art/thumb/1783729614-3938531754113530644.webp",
+        "width": 1800,
+        "height": 2400,
+        "originalWidth": 3072,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1783729614_3938531754113530644_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-07-11."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531754113530644.webp",
+          "thumb": "/art/thumb/1783729614-3938531754113530644.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531754113530644_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531772082022318.webp",
+          "thumb": "/art/thumb/1783729614-3938531772082022318.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531772082022318_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531778046447316.webp",
+          "thumb": "/art/thumb/1783729614-3938531778046447316.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531778046447316_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531784757179432.webp",
+          "thumb": "/art/thumb/1783729614-3938531784757179432.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531784757179432_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531791820474699.webp",
+          "thumb": "/art/thumb/1783729614-3938531791820474699.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531791820474699_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531800737522494.webp",
+          "thumb": "/art/thumb/1783729614-3938531800737522494.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531800737522494_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531808480101623.webp",
+          "thumb": "/art/thumb/1783729614-3938531808480101623.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531808480101623_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531814419315213.webp",
+          "thumb": "/art/thumb/1783729614-3938531814419315213.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531814419315213_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531820719053395.webp",
+          "thumb": "/art/thumb/1783729614-3938531820719053395.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531820719053395_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531826264168528.webp",
+          "thumb": "/art/thumb/1783729614-3938531826264168528.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531826264168528_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531832471610361.webp",
+          "thumb": "/art/thumb/1783729614-3938531832471610361.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531832471610361_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531838259797134.webp",
+          "thumb": "/art/thumb/1783729614-3938531838259797134.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531838259797134_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531846556139802.webp",
+          "thumb": "/art/thumb/1783729614-3938531846556139802.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531846556139802_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531851748589697.webp",
+          "thumb": "/art/thumb/1783729614-3938531851748589697.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531851748589697_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783729614-3938531862788030421.webp",
+          "thumb": "/art/thumb/1783729614-3938531862788030421.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783729614_3938531862788030421_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-11."
+        }
+      ]
+    },
+    {
+      "id": "1783210124",
+      "date": "2026-07-05",
+      "timestamp": 1783210124,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1783210124-3934173841882367040.webp",
+        "thumb": "/art/thumb/1783210124-3934173841882367040.webp",
+        "width": 1800,
+        "height": 2400,
+        "originalWidth": 3072,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1783210124_3934173841882367040_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-07-05."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1783210124-3934173841882367040.webp",
+          "thumb": "/art/thumb/1783210124-3934173841882367040.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783210124_3934173841882367040_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-05."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783210124-3934173845363726769.webp",
+          "thumb": "/art/thumb/1783210124-3934173845363726769.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1783210124_3934173845363726769_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-05."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1783210124-3934173852116484050.webp",
+          "thumb": "/art/thumb/1783210124-3934173852116484050.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 2932,
+          "originalHeight": 3909,
+          "filename": "cold.ashtray_1783210124_3934173852116484050_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-07-05."
+        }
+      ]
+    },
+    {
+      "id": "1781988813",
+      "date": "2026-06-20",
+      "timestamp": 1781988813,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1781988813-3923928871204296963.webp",
+        "thumb": "/art/thumb/1781988813-3923928871204296963.webp",
+        "width": 2130,
+        "height": 2400,
+        "originalWidth": 3635,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1781988813_3923928871204296963_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-06-20."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1781988813-3923928871204296963.webp",
+          "thumb": "/art/thumb/1781988813-3923928871204296963.webp",
+          "width": 2130,
+          "height": 2400,
+          "originalWidth": 3635,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1781988813_3923928871204296963_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-06-20."
+        }
+      ]
+    },
+    {
+      "id": "1780512583",
+      "date": "2026-06-03",
+      "timestamp": 1780512583,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1780512583-3911530064638594898.webp",
+        "thumb": "/art/thumb/1780512583-3911530064638594898.webp",
+        "width": 1800,
+        "height": 2400,
+        "originalWidth": 3072,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1780512583_3911530064638594898_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-06-03."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1780512583-3911530064638594898.webp",
+          "thumb": "/art/thumb/1780512583-3911530064638594898.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1780512583_3911530064638594898_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-06-03."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1780512583-3911530075736556527.webp",
+          "thumb": "/art/thumb/1780512583-3911530075736556527.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1780512583_3911530075736556527_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-06-03."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1780512583-3911530085081581068.webp",
+          "thumb": "/art/thumb/1780512583-3911530085081581068.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1780512583_3911530085081581068_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-06-03."
+        }
+      ]
+    },
+    {
+      "id": "1779203055",
+      "date": "2026-05-19",
+      "timestamp": 1779203055,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1779203055-3900559693177217698.webp",
+        "thumb": "/art/thumb/1779203055-3900559693177217698.webp",
+        "width": 1990,
+        "height": 2400,
+        "originalWidth": 3397,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1779203055_3900559693177217698_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-05-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1779203055-3900559693177217698.webp",
+          "thumb": "/art/thumb/1779203055-3900559693177217698.webp",
+          "width": 1990,
+          "height": 2400,
+          "originalWidth": 3397,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1779203055_3900559693177217698_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-05-19."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1779203055-3900559696834824367.webp",
+          "thumb": "/art/thumb/1779203055-3900559696834824367.webp",
+          "width": 1168,
+          "height": 1405,
+          "originalWidth": 1168,
+          "originalHeight": 1405,
+          "filename": "cold.ashtray_1779203055_3900559696834824367_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-05-19."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1779203055-3900559704141231113.webp",
+          "thumb": "/art/thumb/1779203055-3900559704141231113.webp",
+          "width": 1991,
+          "height": 2400,
+          "originalWidth": 3024,
+          "originalHeight": 3646,
+          "filename": "cold.ashtray_1779203055_3900559704141231113_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-05-19."
+        }
+      ]
+    },
+    {
+      "id": "1777074656",
+      "date": "2026-04-24",
+      "timestamp": 1777074656,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 4,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1777074656-3882706092077225896.webp",
+        "thumb": "/art/thumb/1777074656-3882706092077225896.webp",
+        "width": 1440,
+        "height": 1910,
+        "originalWidth": 1440,
+        "originalHeight": 1910,
+        "filename": "cold.ashtray_1777074656_3882706092077225896_78428278766.jpg",
+        "alt": "Two stripped figures supporting one another in a dark enclosure."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1777074656-3882706092077225896.webp",
+          "thumb": "/art/thumb/1777074656-3882706092077225896.webp",
+          "width": 1440,
+          "height": 1910,
+          "originalWidth": 1440,
+          "originalHeight": 1910,
+          "filename": "cold.ashtray_1777074656_3882706092077225896_78428278766.jpg",
+          "alt": "Two stripped figures supporting one another in a dark enclosure."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1777074656-3882706092798675162.webp",
+          "thumb": "/art/thumb/1777074656-3882706092798675162.webp",
+          "width": 1073,
+          "height": 1430,
+          "originalWidth": 1073,
+          "originalHeight": 1430,
+          "filename": "cold.ashtray_1777074656_3882706092798675162_78428278766.jpg",
+          "alt": "Two stripped figures supporting one another in a dark enclosure."
+        }
+      ]
+    },
+    {
+      "id": "1775860703",
+      "date": "2026-04-10",
+      "timestamp": 1775860703,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 3,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1775860703-3872522671375921953.webp",
+        "thumb": "/art/thumb/1775860703-3872522671375921953.webp",
+        "width": 1440,
+        "height": 1552,
+        "originalWidth": 1440,
+        "originalHeight": 1552,
+        "filename": "cold.ashtray_1775860703_3872522671375921953_78428278766.jpg",
+        "alt": "A child resting against an emaciated, grieving figure."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1775860703-3872522671375921953.webp",
+          "thumb": "/art/thumb/1775860703-3872522671375921953.webp",
+          "width": 1440,
+          "height": 1552,
+          "originalWidth": 1440,
+          "originalHeight": 1552,
+          "filename": "cold.ashtray_1775860703_3872522671375921953_78428278766.jpg",
+          "alt": "A child resting against an emaciated, grieving figure."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1775860703-3872522675561836654.webp",
+          "thumb": "/art/thumb/1775860703-3872522675561836654.webp",
+          "width": 1440,
+          "height": 1552,
+          "originalWidth": 1440,
+          "originalHeight": 1552,
+          "filename": "cold.ashtray_1775860703_3872522675561836654_78428278766.jpg",
+          "alt": "A child resting against an emaciated, grieving figure."
+        }
+      ]
+    },
+    {
+      "id": "1775428534",
+      "date": "2026-04-05",
+      "timestamp": 1775428534,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1775428534-3868897345877976532.webp",
+        "thumb": "/art/thumb/1775428534-3868897345877976532.webp",
+        "width": 1440,
+        "height": 1204,
+        "originalWidth": 1440,
+        "originalHeight": 1204,
+        "filename": "cold.ashtray_1775428534_3868897345877976532_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-04-05."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1775428534-3868897345877976532.webp",
+          "thumb": "/art/thumb/1775428534-3868897345877976532.webp",
+          "width": 1440,
+          "height": 1204,
+          "originalWidth": 1440,
+          "originalHeight": 1204,
+          "filename": "cold.ashtray_1775428534_3868897345877976532_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-04-05."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1775428534-3868897350432983699.webp",
+          "thumb": "/art/thumb/1775428534-3868897350432983699.webp",
+          "width": 1170,
+          "height": 984,
+          "originalWidth": 1170,
+          "originalHeight": 984,
+          "filename": "cold.ashtray_1775428534_3868897350432983699_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-04-05."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1775428534-3868897358611890354.webp",
+          "thumb": "/art/thumb/1775428534-3868897358611890354.webp",
+          "width": 1170,
+          "height": 983,
+          "originalWidth": 1170,
+          "originalHeight": 983,
+          "filename": "cold.ashtray_1775428534_3868897358611890354_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-04-05."
+        }
+      ]
+    },
+    {
+      "id": "1775244290",
+      "date": "2026-04-03",
+      "timestamp": 1775244290,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1775244290-3867348749038785183.webp",
+        "thumb": "/art/thumb/1775244290-3867348749038785183.webp",
+        "width": 1440,
+        "height": 1919,
+        "originalWidth": 1440,
+        "originalHeight": 1919,
+        "filename": "cold.ashtray_1775244290_3867348749038785183_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-04-03."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1775244290-3867348749038785183.webp",
+          "thumb": "/art/thumb/1775244290-3867348749038785183.webp",
+          "width": 1440,
+          "height": 1919,
+          "originalWidth": 1440,
+          "originalHeight": 1919,
+          "filename": "cold.ashtray_1775244290_3867348749038785183_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-04-03."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1775244290-3867348761420414582.webp",
+          "thumb": "/art/thumb/1775244290-3867348761420414582.webp",
+          "width": 1200,
+          "height": 1599,
+          "originalWidth": 1200,
+          "originalHeight": 1599,
+          "filename": "cold.ashtray_1775244290_3867348761420414582_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-04-03."
+        }
+      ]
+    },
+    {
+      "id": "1774212389",
+      "date": "2026-03-22",
+      "timestamp": 1774212389,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1774212389-3858695357546553646.webp",
+        "thumb": "/art/thumb/1774212389-3858695357546553646.webp",
+        "width": 1170,
+        "height": 1462,
+        "originalWidth": 1170,
+        "originalHeight": 1462,
+        "filename": "cold.ashtray_1774212389_3858695357546553646_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-03-22."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1774212389-3858695357546553646.webp",
+          "thumb": "/art/thumb/1774212389-3858695357546553646.webp",
+          "width": 1170,
+          "height": 1462,
+          "originalWidth": 1170,
+          "originalHeight": 1462,
+          "filename": "cold.ashtray_1774212389_3858695357546553646_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-03-22."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1774212389-3858695358318298905.webp",
+          "thumb": "/art/thumb/1774212389-3858695358318298905.webp",
+          "width": 1080,
+          "height": 1350,
+          "originalWidth": 1080,
+          "originalHeight": 1350,
+          "filename": "cold.ashtray_1774212389_3858695358318298905_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-03-22."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1774212389-3858695361606585256.webp",
+          "thumb": "/art/thumb/1774212389-3858695361606585256.webp",
+          "width": 1170,
+          "height": 1462,
+          "originalWidth": 1170,
+          "originalHeight": 1462,
+          "filename": "cold.ashtray_1774212389_3858695361606585256_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-03-22."
+        }
+      ]
+    },
+    {
+      "id": "1774194256",
+      "date": "2026-03-22",
+      "timestamp": 1774194256,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1774194256-3858543489507851601.webp",
+        "thumb": "/art/thumb/1774194256-3858543489507851601.webp",
+        "width": 1080,
+        "height": 1432,
+        "originalWidth": 1080,
+        "originalHeight": 1432,
+        "filename": "cold.ashtray_1774194256_3858543489507851601_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-03-22."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1774194256-3858543489507851601.webp",
+          "thumb": "/art/thumb/1774194256-3858543489507851601.webp",
+          "width": 1080,
+          "height": 1432,
+          "originalWidth": 1080,
+          "originalHeight": 1432,
+          "filename": "cold.ashtray_1774194256_3858543489507851601_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-03-22."
+        }
+      ]
+    },
+    {
+      "id": "1774194255",
+      "date": "2026-03-22",
+      "timestamp": 1774194255,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1774194255-3858543484239761263.webp",
+        "thumb": "/art/thumb/1774194255-3858543484239761263.webp",
+        "width": 901,
+        "height": 1201,
+        "originalWidth": 901,
+        "originalHeight": 1201,
+        "filename": "cold.ashtray_1774194255_3858543484239761263_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-03-22."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1774194255-3858543484239761263.webp",
+          "thumb": "/art/thumb/1774194255-3858543484239761263.webp",
+          "width": 901,
+          "height": 1201,
+          "originalWidth": 901,
+          "originalHeight": 1201,
+          "filename": "cold.ashtray_1774194255_3858543484239761263_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-03-22."
+        }
+      ]
+    },
+    {
+      "id": "1773782597",
+      "date": "2026-03-17",
+      "timestamp": 1773782597,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 1,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1773782597-3855089772087404827.webp",
+        "thumb": "/art/thumb/1773782597-3855089772087404827.webp",
+        "width": 1170,
+        "height": 1552,
+        "originalWidth": 1170,
+        "originalHeight": 1552,
+        "filename": "cold.ashtray_1773782597_3855089772087404827_78428278766.jpg",
+        "alt": "Two figures joined by exposed red anatomy."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1773782597-3855089772087404827.webp",
+          "thumb": "/art/thumb/1773782597-3855089772087404827.webp",
+          "width": 1170,
+          "height": 1552,
+          "originalWidth": 1170,
+          "originalHeight": 1552,
+          "filename": "cold.ashtray_1773782597_3855089772087404827_78428278766.jpg",
+          "alt": "Two figures joined by exposed red anatomy."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1773782597-3855089774411032696.webp",
+          "thumb": "/art/thumb/1773782597-3855089774411032696.webp",
+          "width": 784,
+          "height": 1045,
+          "originalWidth": 784,
+          "originalHeight": 1045,
+          "filename": "cold.ashtray_1773782597_3855089774411032696_78428278766.jpg",
+          "alt": "Two figures joined by exposed red anatomy."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1773782597-3855089777338632273.webp",
+          "thumb": "/art/thumb/1773782597-3855089777338632273.webp",
+          "width": 320,
+          "height": 426,
+          "originalWidth": 320,
+          "originalHeight": 426,
+          "filename": "cold.ashtray_1773782597_3855089777338632273_78428278766.jpg",
+          "alt": "Two figures joined by exposed red anatomy."
+        }
+      ]
+    },
+    {
+      "id": "1773358442",
+      "date": "2026-03-12",
+      "timestamp": 1773358442,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1773358442-3851531391137404468.webp",
+        "thumb": "/art/thumb/1773358442-3851531391137404468.webp",
+        "width": 1342,
+        "height": 1760,
+        "originalWidth": 1342,
+        "originalHeight": 1760,
+        "filename": "cold.ashtray_1773358442_3851531391137404468_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-03-12."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1773358442-3851531391137404468.webp",
+          "thumb": "/art/thumb/1773358442-3851531391137404468.webp",
+          "width": 1342,
+          "height": 1760,
+          "originalWidth": 1342,
+          "originalHeight": 1760,
+          "filename": "cold.ashtray_1773358442_3851531391137404468_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-03-12."
+        }
+      ]
+    },
+    {
+      "id": "1772847752",
+      "date": "2026-03-07",
+      "timestamp": 1772847752,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 5,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1772847752-3847247428654907668.webp",
+        "thumb": "/art/thumb/1772847752-3847247428654907668.webp",
+        "width": 1440,
+        "height": 1920,
+        "originalWidth": 1440,
+        "originalHeight": 1920,
+        "filename": "cold.ashtray_1772847752_3847247428654907668_78428278766.jpg",
+        "alt": "Two figures entwined with an octopus."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1772847752-3847247428654907668.webp",
+          "thumb": "/art/thumb/1772847752-3847247428654907668.webp",
+          "width": 1440,
+          "height": 1920,
+          "originalWidth": 1440,
+          "originalHeight": 1920,
+          "filename": "cold.ashtray_1772847752_3847247428654907668_78428278766.jpg",
+          "alt": "Two figures entwined with an octopus."
+        }
+      ]
+    },
+    {
+      "id": "1772494476",
+      "date": "2026-03-02",
+      "timestamp": 1772494476,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 11,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1772494476-3844284482081449883.webp",
+        "thumb": "/art/thumb/1772494476-3844284482081449883.webp",
+        "width": 1440,
+        "height": 1920,
+        "originalWidth": 1440,
+        "originalHeight": 1920,
+        "filename": "cold.ashtray_1772494476_3844284482081449883_78428278766.jpg",
+        "alt": "A reclining figure beneath a wall of small portraits."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1772494476-3844284482081449883.webp",
+          "thumb": "/art/thumb/1772494476-3844284482081449883.webp",
+          "width": 1440,
+          "height": 1920,
+          "originalWidth": 1440,
+          "originalHeight": 1920,
+          "filename": "cold.ashtray_1772494476_3844284482081449883_78428278766.jpg",
+          "alt": "A reclining figure beneath a wall of small portraits."
+        }
+      ]
+    },
+    {
+      "id": "1772158987",
+      "date": "2026-02-27",
+      "timestamp": 1772158987,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 14,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1772158987-3841469470572943938.webp",
+        "thumb": "/art/thumb/1772158987-3841469470572943938.webp",
+        "width": 1024,
+        "height": 1365,
+        "originalWidth": 1024,
+        "originalHeight": 1365,
+        "filename": "cold.ashtray_1772158987_3841469470572943938_78428278766.jpg",
+        "alt": "An upside-down portrait with dark curls."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1772158987-3841469470572943938.webp",
+          "thumb": "/art/thumb/1772158987-3841469470572943938.webp",
+          "width": 1024,
+          "height": 1365,
+          "originalWidth": 1024,
+          "originalHeight": 1365,
+          "filename": "cold.ashtray_1772158987_3841469470572943938_78428278766.jpg",
+          "alt": "An upside-down portrait with dark curls."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1772158987-3841469476033936318.webp",
+          "thumb": "/art/thumb/1772158987-3841469476033936318.webp",
+          "width": 1440,
+          "height": 1919,
+          "originalWidth": 1440,
+          "originalHeight": 1919,
+          "filename": "cold.ashtray_1772158987_3841469476033936318_78428278766.jpg",
+          "alt": "An upside-down portrait with dark curls."
+        }
+      ]
+    },
+    {
+      "id": "1772056792",
+      "date": "2026-02-25",
+      "timestamp": 1772056792,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1772056792-3840612924204966436.webp",
+        "thumb": "/art/thumb/1772056792-3840612924204966436.webp",
+        "width": 1169,
+        "height": 1558,
+        "originalWidth": 1169,
+        "originalHeight": 1558,
+        "filename": "cold.ashtray_1772056792_3840612924204966436_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-02-25."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1772056792-3840612924204966436.webp",
+          "thumb": "/art/thumb/1772056792-3840612924204966436.webp",
+          "width": 1169,
+          "height": 1558,
+          "originalWidth": 1169,
+          "originalHeight": 1558,
+          "filename": "cold.ashtray_1772056792_3840612924204966436_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-02-25."
+        }
+      ]
+    },
+    {
+      "id": "1771812089",
+      "date": "2026-02-23",
+      "timestamp": 1771812089,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1771812089-3838560448765129588.webp",
+        "thumb": "/art/thumb/1771812089-3838560448765129588.webp",
+        "width": 1192,
+        "height": 1589,
+        "originalWidth": 1192,
+        "originalHeight": 1589,
+        "filename": "cold.ashtray_1771812089_3838560448765129588_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-02-23."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1771812089-3838560448765129588.webp",
+          "thumb": "/art/thumb/1771812089-3838560448765129588.webp",
+          "width": 1192,
+          "height": 1589,
+          "originalWidth": 1192,
+          "originalHeight": 1589,
+          "filename": "cold.ashtray_1771812089_3838560448765129588_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-02-23."
+        }
+      ]
+    },
+    {
+      "id": "1771588732",
+      "date": "2026-02-20",
+      "timestamp": 1771588732,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1771588732-3836686278800317850.webp",
+        "thumb": "/art/thumb/1771588732-3836686278800317850.webp",
+        "width": 1440,
+        "height": 1920,
+        "originalWidth": 1440,
+        "originalHeight": 1920,
+        "filename": "cold.ashtray_1771588732_3836686278800317850_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-02-20."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1771588732-3836686278800317850.webp",
+          "thumb": "/art/thumb/1771588732-3836686278800317850.webp",
+          "width": 1440,
+          "height": 1920,
+          "originalWidth": 1440,
+          "originalHeight": 1920,
+          "filename": "cold.ashtray_1771588732_3836686278800317850_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-02-20."
+        }
+      ]
+    },
+    {
+      "id": "1771431600",
+      "date": "2026-02-18",
+      "timestamp": 1771431600,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1771431600-3835368640615289284.webp",
+        "thumb": "/art/thumb/1771431600-3835368640615289284.webp",
+        "width": 1440,
+        "height": 1440,
+        "originalWidth": 1440,
+        "originalHeight": 1440,
+        "filename": "cold.ashtray_1771431600_3835368640615289284_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-02-18."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1771431600-3835368640615289284.webp",
+          "thumb": "/art/thumb/1771431600-3835368640615289284.webp",
+          "width": 1440,
+          "height": 1440,
+          "originalWidth": 1440,
+          "originalHeight": 1440,
+          "filename": "cold.ashtray_1771431600_3835368640615289284_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-02-18."
+        }
+      ]
+    },
+    {
+      "id": "1771344836",
+      "date": "2026-02-17",
+      "timestamp": 1771344836,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1771344836-3834640694920795194.webp",
+        "thumb": "/art/thumb/1771344836-3834640694920795194.webp",
+        "width": 1364,
+        "height": 1819,
+        "originalWidth": 1364,
+        "originalHeight": 1819,
+        "filename": "cold.ashtray_1771344836_3834640694920795194_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-02-17."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1771344836-3834640694920795194.webp",
+          "thumb": "/art/thumb/1771344836-3834640694920795194.webp",
+          "width": 1364,
+          "height": 1819,
+          "originalWidth": 1364,
+          "originalHeight": 1819,
+          "filename": "cold.ashtray_1771344836_3834640694920795194_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-02-17."
+        }
+      ]
+    },
+    {
+      "id": "1771334444",
+      "date": "2026-02-17",
+      "timestamp": 1771334444,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 6,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1771334444-3834553090347646984.webp",
+        "thumb": "/art/thumb/1771334444-3834553090347646984.webp",
+        "width": 1024,
+        "height": 682,
+        "originalWidth": 1024,
+        "originalHeight": 682,
+        "filename": "cold.ashtray_1771334444_3834553090347646984_78428278766.jpg",
+        "alt": "A skeletal figure collapsed across a wooden chair."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1771334444-3834553090347646984.webp",
+          "thumb": "/art/thumb/1771334444-3834553090347646984.webp",
+          "width": 1024,
+          "height": 682,
+          "originalWidth": 1024,
+          "originalHeight": 682,
+          "filename": "cold.ashtray_1771334444_3834553090347646984_78428278766.jpg",
+          "alt": "A skeletal figure collapsed across a wooden chair."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1771334444-3834553091362682252.webp",
+          "thumb": "/art/thumb/1771334444-3834553091362682252.webp",
+          "width": 544,
+          "height": 363,
+          "originalWidth": 544,
+          "originalHeight": 363,
+          "filename": "cold.ashtray_1771334444_3834553091362682252_78428278766.jpg",
+          "alt": "A skeletal figure collapsed across a wooden chair."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1771334444-3834553091740158232.webp",
+          "thumb": "/art/thumb/1771334444-3834553091740158232.webp",
+          "width": 406,
+          "height": 271,
+          "originalWidth": 406,
+          "originalHeight": 271,
+          "filename": "cold.ashtray_1771334444_3834553091740158232_78428278766.jpg",
+          "alt": "A skeletal figure collapsed across a wooden chair."
+        }
+      ]
+    },
+    {
+      "id": "1770936249",
+      "date": "2026-02-12",
+      "timestamp": 1770936249,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 7,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1770936249-3831212953169606290.webp",
+        "thumb": "/art/thumb/1770936249-3831212953169606290.webp",
+        "width": 1168,
+        "height": 1163,
+        "originalWidth": 1168,
+        "originalHeight": 1163,
+        "filename": "cold.ashtray_1770936249_3831212953169606290_78428278766.jpg",
+        "alt": "A standing figure woven into branching black forms."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1770936249-3831212953169606290.webp",
+          "thumb": "/art/thumb/1770936249-3831212953169606290.webp",
+          "width": 1168,
+          "height": 1163,
+          "originalWidth": 1168,
+          "originalHeight": 1163,
+          "filename": "cold.ashtray_1770936249_3831212953169606290_78428278766.jpg",
+          "alt": "A standing figure woven into branching black forms."
+        }
+      ]
+    },
+    {
+      "id": "1770761139",
+      "date": "2026-02-10",
+      "timestamp": 1770761139,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1770761139-3829744442194556726.webp",
+        "thumb": "/art/thumb/1770761139-3829744442194556726.webp",
+        "width": 1440,
+        "height": 1920,
+        "originalWidth": 1440,
+        "originalHeight": 1920,
+        "filename": "cold.ashtray_1770761139_3829744442194556726_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-02-10."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1770761139-3829744442194556726.webp",
+          "thumb": "/art/thumb/1770761139-3829744442194556726.webp",
+          "width": 1440,
+          "height": 1920,
+          "originalWidth": 1440,
+          "originalHeight": 1920,
+          "filename": "cold.ashtray_1770761139_3829744442194556726_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-02-10."
+        }
+      ]
+    },
+    {
+      "id": "1770590215",
+      "date": "2026-02-08",
+      "timestamp": 1770590215,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1770590215-3828307449493606352.webp",
+        "thumb": "/art/thumb/1770590215-3828307449493606352.webp",
+        "width": 1440,
+        "height": 1920,
+        "originalWidth": 1440,
+        "originalHeight": 1920,
+        "filename": "cold.ashtray_1770590215_3828307449493606352_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-02-08."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1770590215-3828307449493606352.webp",
+          "thumb": "/art/thumb/1770590215-3828307449493606352.webp",
+          "width": 1440,
+          "height": 1920,
+          "originalWidth": 1440,
+          "originalHeight": 1920,
+          "filename": "cold.ashtray_1770590215_3828307449493606352_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-02-08."
+        }
+      ]
+    },
+    {
+      "id": "1770059620",
+      "date": "2026-02-02",
+      "timestamp": 1770059620,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1770059620-3823859562521095679.webp",
+        "thumb": "/art/thumb/1770059620-3823859562521095679.webp",
+        "width": 1440,
+        "height": 1119,
+        "originalWidth": 1440,
+        "originalHeight": 1119,
+        "filename": "cold.ashtray_1770059620_3823859562521095679_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-02-02."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1770059620-3823859562521095679.webp",
+          "thumb": "/art/thumb/1770059620-3823859562521095679.webp",
+          "width": 1440,
+          "height": 1119,
+          "originalWidth": 1440,
+          "originalHeight": 1119,
+          "filename": "cold.ashtray_1770059620_3823859562521095679_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-02-02."
+        }
+      ]
+    },
+    {
+      "id": "1769174242",
+      "date": "2026-01-23",
+      "timestamp": 1769174242,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1769174242-3816432616773650670.webp",
+        "thumb": "/art/thumb/1769174242-3816432616773650670.webp",
+        "width": 1440,
+        "height": 1872,
+        "originalWidth": 1440,
+        "originalHeight": 1872,
+        "filename": "cold.ashtray_1769174242_3816432616773650670_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-01-23."
+      },
+      "assets": [
+        {
+          "type": "video",
+          "src": "/art/video/1769174242-3816432434489201744.mp4",
+          "filename": "cold.ashtray_1769174242_3816432434489201744_78428278766.mp4",
+          "alt": "Untitled moving study."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1769174242-3816432616773650670.webp",
+          "thumb": "/art/thumb/1769174242-3816432616773650670.webp",
+          "width": 1440,
+          "height": 1872,
+          "originalWidth": 1440,
+          "originalHeight": 1872,
+          "filename": "cold.ashtray_1769174242_3816432616773650670_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-01-23."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1769174242-3816432616782065226.webp",
+          "thumb": "/art/thumb/1769174242-3816432616782065226.webp",
+          "width": 1440,
+          "height": 1883,
+          "originalWidth": 1440,
+          "originalHeight": 1883,
+          "filename": "cold.ashtray_1769174242_3816432616782065226_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-01-23."
+        }
+      ]
+    },
+    {
+      "id": "1768222516",
+      "date": "2026-01-12",
+      "timestamp": 1768222516,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1768222516-3808448963104475210.webp",
+        "thumb": "/art/thumb/1768222516-3808448963104475210.webp",
+        "width": 1440,
+        "height": 1193,
+        "originalWidth": 1440,
+        "originalHeight": 1193,
+        "filename": "cold.ashtray_1768222516_3808448963104475210_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-01-12."
+      },
+      "assets": [
+        {
+          "type": "video",
+          "src": "/art/video/1768222516-3808448836537189568.mp4",
+          "filename": "cold.ashtray_1768222516_3808448836537189568_78428278766 (1).mp4",
+          "alt": "Untitled moving study."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1768222516-3808448963104475210.webp",
+          "thumb": "/art/thumb/1768222516-3808448963104475210.webp",
+          "width": 1440,
+          "height": 1193,
+          "originalWidth": 1440,
+          "originalHeight": 1193,
+          "filename": "cold.ashtray_1768222516_3808448963104475210_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-01-12."
+        }
+      ]
+    },
+    {
+      "id": "1767488129",
+      "date": "2026-01-04",
+      "timestamp": 1767488129,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1767488129-3802288473566769358.webp",
+        "thumb": "/art/thumb/1767488129-3802288473566769358.webp",
+        "width": 1440,
+        "height": 1900,
+        "originalWidth": 1440,
+        "originalHeight": 1900,
+        "filename": "cold.ashtray_1767488129_3802288473566769358_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2026-01-04."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1767488129-3802288473566769358.webp",
+          "thumb": "/art/thumb/1767488129-3802288473566769358.webp",
+          "width": 1440,
+          "height": 1900,
+          "originalWidth": 1440,
+          "originalHeight": 1900,
+          "filename": "cold.ashtray_1767488129_3802288473566769358_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2026-01-04."
+        }
+      ]
+    },
+    {
+      "id": "1766182817",
+      "date": "2025-12-19",
+      "timestamp": 1766182817,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766182817-3791338725582178479.webp",
+        "thumb": "/art/thumb/1766182817-3791338725582178479.webp",
+        "width": 1297,
+        "height": 1730,
+        "originalWidth": 1297,
+        "originalHeight": 1730,
+        "filename": "cold.ashtray_1766182817_3791338725582178479_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766182817-3791338725582178479.webp",
+          "thumb": "/art/thumb/1766182817-3791338725582178479.webp",
+          "width": 1297,
+          "height": 1730,
+          "originalWidth": 1297,
+          "originalHeight": 1730,
+          "filename": "cold.ashtray_1766182817_3791338725582178479_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766182753",
+      "date": "2025-12-19",
+      "timestamp": 1766182753,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 8,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766182753-3791338190128975397.webp",
+        "thumb": "/art/thumb/1766182753-3791338190128975397.webp",
+        "width": 1129,
+        "height": 1191,
+        "originalWidth": 1129,
+        "originalHeight": 1191,
+        "filename": "cold.ashtray_1766182753_3791338190128975397_78428278766.jpg",
+        "alt": "Two anatomical figures holding one another."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766182753-3791338190128975397.webp",
+          "thumb": "/art/thumb/1766182753-3791338190128975397.webp",
+          "width": 1129,
+          "height": 1191,
+          "originalWidth": 1129,
+          "originalHeight": 1191,
+          "filename": "cold.ashtray_1766182753_3791338190128975397_78428278766.jpg",
+          "alt": "Two anatomical figures holding one another."
+        }
+      ]
+    },
+    {
+      "id": "1766182704",
+      "date": "2025-12-19",
+      "timestamp": 1766182704,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766182704-3791337773189964837.webp",
+        "thumb": "/art/thumb/1766182704-3791337773189964837.webp",
+        "width": 1440,
+        "height": 1048,
+        "originalWidth": 1440,
+        "originalHeight": 1048,
+        "filename": "cold.ashtray_1766182704_3791337773189964837_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766182704-3791337773189964837.webp",
+          "thumb": "/art/thumb/1766182704-3791337773189964837.webp",
+          "width": 1440,
+          "height": 1048,
+          "originalWidth": 1440,
+          "originalHeight": 1048,
+          "filename": "cold.ashtray_1766182704_3791337773189964837_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766182380",
+      "date": "2025-12-19",
+      "timestamp": 1766182380,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766182380-3791335061807312032.webp",
+        "thumb": "/art/thumb/1766182380-3791335061807312032.webp",
+        "width": 1161,
+        "height": 1371,
+        "originalWidth": 1161,
+        "originalHeight": 1371,
+        "filename": "cold.ashtray_1766182380_3791335061807312032_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766182380-3791335061807312032.webp",
+          "thumb": "/art/thumb/1766182380-3791335061807312032.webp",
+          "width": 1161,
+          "height": 1371,
+          "originalWidth": 1161,
+          "originalHeight": 1371,
+          "filename": "cold.ashtray_1766182380_3791335061807312032_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766182371",
+      "date": "2025-12-19",
+      "timestamp": 1766182371,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 13,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766182371-3791334981922594985.webp",
+        "thumb": "/art/thumb/1766182371-3791334981922594985.webp",
+        "width": 1158,
+        "height": 1507,
+        "originalWidth": 1158,
+        "originalHeight": 1507,
+        "filename": "cold.ashtray_1766182371_3791334981922594985_78428278766.jpg",
+        "alt": "Three anguished anatomical heads."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766182371-3791334981922594985.webp",
+          "thumb": "/art/thumb/1766182371-3791334981922594985.webp",
+          "width": 1158,
+          "height": 1507,
+          "originalWidth": 1158,
+          "originalHeight": 1507,
+          "filename": "cold.ashtray_1766182371_3791334981922594985_78428278766.jpg",
+          "alt": "Three anguished anatomical heads."
+        }
+      ]
+    },
+    {
+      "id": "1766182363",
+      "date": "2025-12-19",
+      "timestamp": 1766182363,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766182363-3791334918504748541.webp",
+        "thumb": "/art/thumb/1766182363-3791334918504748541.webp",
+        "width": 1170,
+        "height": 1170,
+        "originalWidth": 1170,
+        "originalHeight": 1170,
+        "filename": "cold.ashtray_1766182363_3791334918504748541_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766182363-3791334918504748541.webp",
+          "thumb": "/art/thumb/1766182363-3791334918504748541.webp",
+          "width": 1170,
+          "height": 1170,
+          "originalWidth": 1170,
+          "originalHeight": 1170,
+          "filename": "cold.ashtray_1766182363_3791334918504748541_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181988",
+      "date": "2025-12-19",
+      "timestamp": 1766181988,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181988-3791331770973871688.webp",
+        "thumb": "/art/thumb/1766181988-3791331770973871688.webp",
+        "width": 1440,
+        "height": 1917,
+        "originalWidth": 1440,
+        "originalHeight": 1917,
+        "filename": "cold.ashtray_1766181988_3791331770973871688_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181988-3791331770973871688.webp",
+          "thumb": "/art/thumb/1766181988-3791331770973871688.webp",
+          "width": 1440,
+          "height": 1917,
+          "originalWidth": 1440,
+          "originalHeight": 1917,
+          "filename": "cold.ashtray_1766181988_3791331770973871688_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181919",
+      "date": "2025-12-19",
+      "timestamp": 1766181919,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181919-3791331194852622233.webp",
+        "thumb": "/art/thumb/1766181919-3791331194852622233.webp",
+        "width": 1440,
+        "height": 1456,
+        "originalWidth": 1440,
+        "originalHeight": 1456,
+        "filename": "cold.ashtray_1766181919_3791331194852622233_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181919-3791331194852622233.webp",
+          "thumb": "/art/thumb/1766181919-3791331194852622233.webp",
+          "width": 1440,
+          "height": 1456,
+          "originalWidth": 1440,
+          "originalHeight": 1456,
+          "filename": "cold.ashtray_1766181919_3791331194852622233_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181892",
+      "date": "2025-12-19",
+      "timestamp": 1766181892,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181892-3791330966833481687.webp",
+        "thumb": "/art/thumb/1766181892-3791330966833481687.webp",
+        "width": 1328,
+        "height": 1508,
+        "originalWidth": 1328,
+        "originalHeight": 1508,
+        "filename": "cold.ashtray_1766181892_3791330966833481687_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181892-3791330966833481687.webp",
+          "thumb": "/art/thumb/1766181892-3791330966833481687.webp",
+          "width": 1328,
+          "height": 1508,
+          "originalWidth": 1328,
+          "originalHeight": 1508,
+          "filename": "cold.ashtray_1766181892_3791330966833481687_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181473",
+      "date": "2025-12-19",
+      "timestamp": 1766181473,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181473-3791327448156366945.webp",
+        "thumb": "/art/thumb/1766181473-3791327448156366945.webp",
+        "width": 1114,
+        "height": 1034,
+        "originalWidth": 1114,
+        "originalHeight": 1034,
+        "filename": "cold.ashtray_1766181473_3791327448156366945_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181473-3791327448156366945.webp",
+          "thumb": "/art/thumb/1766181473-3791327448156366945.webp",
+          "width": 1114,
+          "height": 1034,
+          "originalWidth": 1114,
+          "originalHeight": 1034,
+          "filename": "cold.ashtray_1766181473_3791327448156366945_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181440",
+      "date": "2025-12-19",
+      "timestamp": 1766181440,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181440-3791327172187923886.webp",
+        "thumb": "/art/thumb/1766181440-3791327172187923886.webp",
+        "width": 1170,
+        "height": 1143,
+        "originalWidth": 1170,
+        "originalHeight": 1143,
+        "filename": "cold.ashtray_1766181440_3791327172187923886_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181440-3791327172187923886.webp",
+          "thumb": "/art/thumb/1766181440-3791327172187923886.webp",
+          "width": 1170,
+          "height": 1143,
+          "originalWidth": 1170,
+          "originalHeight": 1143,
+          "filename": "cold.ashtray_1766181440_3791327172187923886_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181396",
+      "date": "2025-12-19",
+      "timestamp": 1766181396,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181396-3791326808248186647.webp",
+        "thumb": "/art/thumb/1766181396-3791326808248186647.webp",
+        "width": 1170,
+        "height": 1165,
+        "originalWidth": 1170,
+        "originalHeight": 1165,
+        "filename": "cold.ashtray_1766181396_3791326808248186647_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181396-3791326808248186647.webp",
+          "thumb": "/art/thumb/1766181396-3791326808248186647.webp",
+          "width": 1170,
+          "height": 1165,
+          "originalWidth": 1170,
+          "originalHeight": 1165,
+          "filename": "cold.ashtray_1766181396_3791326808248186647_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181355",
+      "date": "2025-12-19",
+      "timestamp": 1766181355,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181355-3791326461060497884.webp",
+        "thumb": "/art/thumb/1766181355-3791326461060497884.webp",
+        "width": 1331,
+        "height": 1774,
+        "originalWidth": 1331,
+        "originalHeight": 1774,
+        "filename": "cold.ashtray_1766181355_3791326461060497884_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181355-3791326461060497884.webp",
+          "thumb": "/art/thumb/1766181355-3791326461060497884.webp",
+          "width": 1331,
+          "height": 1774,
+          "originalWidth": 1331,
+          "originalHeight": 1774,
+          "filename": "cold.ashtray_1766181355_3791326461060497884_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181312",
+      "date": "2025-12-19",
+      "timestamp": 1766181312,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181312-3791326097129123696.webp",
+        "thumb": "/art/thumb/1766181312-3791326097129123696.webp",
+        "width": 1428,
+        "height": 1743,
+        "originalWidth": 1428,
+        "originalHeight": 1743,
+        "filename": "cold.ashtray_1766181312_3791326097129123696_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181312-3791326097129123696.webp",
+          "thumb": "/art/thumb/1766181312-3791326097129123696.webp",
+          "width": 1428,
+          "height": 1743,
+          "originalWidth": 1428,
+          "originalHeight": 1743,
+          "filename": "cold.ashtray_1766181312_3791326097129123696_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181292",
+      "date": "2025-12-19",
+      "timestamp": 1766181292,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181292-3791325930346826344.webp",
+        "thumb": "/art/thumb/1766181292-3791325930346826344.webp",
+        "width": 1440,
+        "height": 1920,
+        "originalWidth": 1440,
+        "originalHeight": 1920,
+        "filename": "cold.ashtray_1766181292_3791325930346826344_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181292-3791325930346826344.webp",
+          "thumb": "/art/thumb/1766181292-3791325930346826344.webp",
+          "width": 1440,
+          "height": 1920,
+          "originalWidth": 1440,
+          "originalHeight": 1920,
+          "filename": "cold.ashtray_1766181292_3791325930346826344_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181273",
+      "date": "2025-12-19",
+      "timestamp": 1766181273,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181273-3791325768597644801.webp",
+        "thumb": "/art/thumb/1766181273-3791325768597644801.webp",
+        "width": 1170,
+        "height": 1164,
+        "originalWidth": 1170,
+        "originalHeight": 1164,
+        "filename": "cold.ashtray_1766181273_3791325768597644801_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181273-3791325768597644801.webp",
+          "thumb": "/art/thumb/1766181273-3791325768597644801.webp",
+          "width": 1170,
+          "height": 1164,
+          "originalWidth": 1170,
+          "originalHeight": 1164,
+          "filename": "cold.ashtray_1766181273_3791325768597644801_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181194",
+      "date": "2025-12-19",
+      "timestamp": 1766181194,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181194-3791325109882247416.webp",
+        "thumb": "/art/thumb/1766181194-3791325109882247416.webp",
+        "width": 1132,
+        "height": 1132,
+        "originalWidth": 1132,
+        "originalHeight": 1132,
+        "filename": "cold.ashtray_1766181194_3791325109882247416_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181194-3791325109882247416.webp",
+          "thumb": "/art/thumb/1766181194-3791325109882247416.webp",
+          "width": 1132,
+          "height": 1132,
+          "originalWidth": 1132,
+          "originalHeight": 1132,
+          "filename": "cold.ashtray_1766181194_3791325109882247416_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766181033",
+      "date": "2025-12-19",
+      "timestamp": 1766181033,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766181033-3791323759979053567.webp",
+        "thumb": "/art/thumb/1766181033-3791323759979053567.webp",
+        "width": 1440,
+        "height": 1920,
+        "originalWidth": 1440,
+        "originalHeight": 1920,
+        "filename": "cold.ashtray_1766181033_3791323759979053567_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766181033-3791323759979053567.webp",
+          "thumb": "/art/thumb/1766181033-3791323759979053567.webp",
+          "width": 1440,
+          "height": 1920,
+          "originalWidth": 1440,
+          "originalHeight": 1920,
+          "filename": "cold.ashtray_1766181033_3791323759979053567_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766180900",
+      "date": "2025-12-19",
+      "timestamp": 1766180900,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766180900-3791322643690224077.webp",
+        "thumb": "/art/thumb/1766180900-3791322643690224077.webp",
+        "width": 1440,
+        "height": 1846,
+        "originalWidth": 1440,
+        "originalHeight": 1846,
+        "filename": "cold.ashtray_1766180900_3791322643690224077_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766180900-3791322643690224077.webp",
+          "thumb": "/art/thumb/1766180900-3791322643690224077.webp",
+          "width": 1440,
+          "height": 1846,
+          "originalWidth": 1440,
+          "originalHeight": 1846,
+          "filename": "cold.ashtray_1766180900_3791322643690224077_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766180882",
+      "date": "2025-12-19",
+      "timestamp": 1766180882,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766180882-3791322494825931297.webp",
+        "thumb": "/art/thumb/1766180882-3791322494825931297.webp",
+        "width": 1338,
+        "height": 1529,
+        "originalWidth": 1338,
+        "originalHeight": 1529,
+        "filename": "cold.ashtray_1766180882_3791322494825931297_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766180882-3791322494825931297.webp",
+          "thumb": "/art/thumb/1766180882-3791322494825931297.webp",
+          "width": 1338,
+          "height": 1529,
+          "originalWidth": 1338,
+          "originalHeight": 1529,
+          "filename": "cold.ashtray_1766180882_3791322494825931297_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766180788",
+      "date": "2025-12-19",
+      "timestamp": 1766180788,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 12,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766180788-3791321700751951624.webp",
+        "thumb": "/art/thumb/1766180788-3791321700751951624.webp",
+        "width": 1440,
+        "height": 1440,
+        "originalWidth": 1440,
+        "originalHeight": 1440,
+        "filename": "cold.ashtray_1766180788_3791321700751951624_78428278766.jpg",
+        "alt": "Three fused heads emerging from a dark anatomical mass."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766180788-3791321700751951624.webp",
+          "thumb": "/art/thumb/1766180788-3791321700751951624.webp",
+          "width": 1440,
+          "height": 1440,
+          "originalWidth": 1440,
+          "originalHeight": 1440,
+          "filename": "cold.ashtray_1766180788_3791321700751951624_78428278766.jpg",
+          "alt": "Three fused heads emerging from a dark anatomical mass."
+        }
+      ]
+    },
+    {
+      "id": "1766180707",
+      "date": "2025-12-19",
+      "timestamp": 1766180707,
+      "title": "Untitled",
+      "caption": null,
+      "featured": false,
+      "featuredOrder": null,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766180707-3791321021861886405.webp",
+        "thumb": "/art/thumb/1766180707-3791321021861886405.webp",
+        "width": 1440,
+        "height": 1920,
+        "originalWidth": 1440,
+        "originalHeight": 1920,
+        "filename": "cold.ashtray_1766180707_3791321021861886405_78428278766.jpg",
+        "alt": "Untitled work by cold.ashtray, 2025-12-19."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766180707-3791321021861886405.webp",
+          "thumb": "/art/thumb/1766180707-3791321021861886405.webp",
+          "width": 1440,
+          "height": 1920,
+          "originalWidth": 1440,
+          "originalHeight": 1920,
+          "filename": "cold.ashtray_1766180707_3791321021861886405_78428278766.jpg",
+          "alt": "Untitled work by cold.ashtray, 2025-12-19."
+        }
+      ]
+    },
+    {
+      "id": "1766180595",
+      "date": "2025-12-19",
+      "timestamp": 1766180595,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 2,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766180595-3791320084644659346.webp",
+        "thumb": "/art/thumb/1766180595-3791320084644659346.webp",
+        "width": 1440,
+        "height": 1784,
+        "originalWidth": 1440,
+        "originalHeight": 1784,
+        "filename": "cold.ashtray_1766180595_3791320084644659346_78428278766.jpg",
+        "alt": "A central screaming face surrounded by anatomical profiles."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766180595-3791320084644659346.webp",
+          "thumb": "/art/thumb/1766180595-3791320084644659346.webp",
+          "width": 1440,
+          "height": 1784,
+          "originalWidth": 1440,
+          "originalHeight": 1784,
+          "filename": "cold.ashtray_1766180595_3791320084644659346_78428278766.jpg",
+          "alt": "A central screaming face surrounded by anatomical profiles."
+        }
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "id": "1792278928",
+      "date": "2026-10-17",
+      "timestamp": 1792278928,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 0,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1792278928-4010248632808380257.webp",
+        "thumb": "/art/thumb/1792278928-4010248632808380257.webp",
+        "width": 784,
+        "height": 1040,
+        "originalWidth": 784,
+        "originalHeight": 1040,
+        "filename": "cold.ashtray_1792278928_4010248632808380257_78428278766.jpg",
+        "alt": "Three anatomical heads bound together with dark red cords."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1792278928-4010248632808380257.webp",
+          "thumb": "/art/thumb/1792278928-4010248632808380257.webp",
+          "width": 784,
+          "height": 1040,
+          "originalWidth": 784,
+          "originalHeight": 1040,
+          "filename": "cold.ashtray_1792278928_4010248632808380257_78428278766.jpg",
+          "alt": "Three anatomical heads bound together with dark red cords."
+        }
+      ]
+    },
+    {
+      "id": "1773782597",
+      "date": "2026-03-17",
+      "timestamp": 1773782597,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 1,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1773782597-3855089772087404827.webp",
+        "thumb": "/art/thumb/1773782597-3855089772087404827.webp",
+        "width": 1170,
+        "height": 1552,
+        "originalWidth": 1170,
+        "originalHeight": 1552,
+        "filename": "cold.ashtray_1773782597_3855089772087404827_78428278766.jpg",
+        "alt": "Two figures joined by exposed red anatomy."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1773782597-3855089772087404827.webp",
+          "thumb": "/art/thumb/1773782597-3855089772087404827.webp",
+          "width": 1170,
+          "height": 1552,
+          "originalWidth": 1170,
+          "originalHeight": 1552,
+          "filename": "cold.ashtray_1773782597_3855089772087404827_78428278766.jpg",
+          "alt": "Two figures joined by exposed red anatomy."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1773782597-3855089774411032696.webp",
+          "thumb": "/art/thumb/1773782597-3855089774411032696.webp",
+          "width": 784,
+          "height": 1045,
+          "originalWidth": 784,
+          "originalHeight": 1045,
+          "filename": "cold.ashtray_1773782597_3855089774411032696_78428278766.jpg",
+          "alt": "Two figures joined by exposed red anatomy."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1773782597-3855089777338632273.webp",
+          "thumb": "/art/thumb/1773782597-3855089777338632273.webp",
+          "width": 320,
+          "height": 426,
+          "originalWidth": 320,
+          "originalHeight": 426,
+          "filename": "cold.ashtray_1773782597_3855089777338632273_78428278766.jpg",
+          "alt": "Two figures joined by exposed red anatomy."
+        }
+      ]
+    },
+    {
+      "id": "1766180595",
+      "date": "2025-12-19",
+      "timestamp": 1766180595,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 2,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766180595-3791320084644659346.webp",
+        "thumb": "/art/thumb/1766180595-3791320084644659346.webp",
+        "width": 1440,
+        "height": 1784,
+        "originalWidth": 1440,
+        "originalHeight": 1784,
+        "filename": "cold.ashtray_1766180595_3791320084644659346_78428278766.jpg",
+        "alt": "A central screaming face surrounded by anatomical profiles."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766180595-3791320084644659346.webp",
+          "thumb": "/art/thumb/1766180595-3791320084644659346.webp",
+          "width": 1440,
+          "height": 1784,
+          "originalWidth": 1440,
+          "originalHeight": 1784,
+          "filename": "cold.ashtray_1766180595_3791320084644659346_78428278766.jpg",
+          "alt": "A central screaming face surrounded by anatomical profiles."
+        }
+      ]
+    },
+    {
+      "id": "1775860703",
+      "date": "2026-04-10",
+      "timestamp": 1775860703,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 3,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1775860703-3872522671375921953.webp",
+        "thumb": "/art/thumb/1775860703-3872522671375921953.webp",
+        "width": 1440,
+        "height": 1552,
+        "originalWidth": 1440,
+        "originalHeight": 1552,
+        "filename": "cold.ashtray_1775860703_3872522671375921953_78428278766.jpg",
+        "alt": "A child resting against an emaciated, grieving figure."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1775860703-3872522671375921953.webp",
+          "thumb": "/art/thumb/1775860703-3872522671375921953.webp",
+          "width": 1440,
+          "height": 1552,
+          "originalWidth": 1440,
+          "originalHeight": 1552,
+          "filename": "cold.ashtray_1775860703_3872522671375921953_78428278766.jpg",
+          "alt": "A child resting against an emaciated, grieving figure."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1775860703-3872522675561836654.webp",
+          "thumb": "/art/thumb/1775860703-3872522675561836654.webp",
+          "width": 1440,
+          "height": 1552,
+          "originalWidth": 1440,
+          "originalHeight": 1552,
+          "filename": "cold.ashtray_1775860703_3872522675561836654_78428278766.jpg",
+          "alt": "A child resting against an emaciated, grieving figure."
+        }
+      ]
+    },
+    {
+      "id": "1777074656",
+      "date": "2026-04-24",
+      "timestamp": 1777074656,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 4,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1777074656-3882706092077225896.webp",
+        "thumb": "/art/thumb/1777074656-3882706092077225896.webp",
+        "width": 1440,
+        "height": 1910,
+        "originalWidth": 1440,
+        "originalHeight": 1910,
+        "filename": "cold.ashtray_1777074656_3882706092077225896_78428278766.jpg",
+        "alt": "Two stripped figures supporting one another in a dark enclosure."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1777074656-3882706092077225896.webp",
+          "thumb": "/art/thumb/1777074656-3882706092077225896.webp",
+          "width": 1440,
+          "height": 1910,
+          "originalWidth": 1440,
+          "originalHeight": 1910,
+          "filename": "cold.ashtray_1777074656_3882706092077225896_78428278766.jpg",
+          "alt": "Two stripped figures supporting one another in a dark enclosure."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1777074656-3882706092798675162.webp",
+          "thumb": "/art/thumb/1777074656-3882706092798675162.webp",
+          "width": 1073,
+          "height": 1430,
+          "originalWidth": 1073,
+          "originalHeight": 1430,
+          "filename": "cold.ashtray_1777074656_3882706092798675162_78428278766.jpg",
+          "alt": "Two stripped figures supporting one another in a dark enclosure."
+        }
+      ]
+    },
+    {
+      "id": "1772847752",
+      "date": "2026-03-07",
+      "timestamp": 1772847752,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 5,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1772847752-3847247428654907668.webp",
+        "thumb": "/art/thumb/1772847752-3847247428654907668.webp",
+        "width": 1440,
+        "height": 1920,
+        "originalWidth": 1440,
+        "originalHeight": 1920,
+        "filename": "cold.ashtray_1772847752_3847247428654907668_78428278766.jpg",
+        "alt": "Two figures entwined with an octopus."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1772847752-3847247428654907668.webp",
+          "thumb": "/art/thumb/1772847752-3847247428654907668.webp",
+          "width": 1440,
+          "height": 1920,
+          "originalWidth": 1440,
+          "originalHeight": 1920,
+          "filename": "cold.ashtray_1772847752_3847247428654907668_78428278766.jpg",
+          "alt": "Two figures entwined with an octopus."
+        }
+      ]
+    },
+    {
+      "id": "1771334444",
+      "date": "2026-02-17",
+      "timestamp": 1771334444,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 6,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1771334444-3834553090347646984.webp",
+        "thumb": "/art/thumb/1771334444-3834553090347646984.webp",
+        "width": 1024,
+        "height": 682,
+        "originalWidth": 1024,
+        "originalHeight": 682,
+        "filename": "cold.ashtray_1771334444_3834553090347646984_78428278766.jpg",
+        "alt": "A skeletal figure collapsed across a wooden chair."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1771334444-3834553090347646984.webp",
+          "thumb": "/art/thumb/1771334444-3834553090347646984.webp",
+          "width": 1024,
+          "height": 682,
+          "originalWidth": 1024,
+          "originalHeight": 682,
+          "filename": "cold.ashtray_1771334444_3834553090347646984_78428278766.jpg",
+          "alt": "A skeletal figure collapsed across a wooden chair."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1771334444-3834553091362682252.webp",
+          "thumb": "/art/thumb/1771334444-3834553091362682252.webp",
+          "width": 544,
+          "height": 363,
+          "originalWidth": 544,
+          "originalHeight": 363,
+          "filename": "cold.ashtray_1771334444_3834553091362682252_78428278766.jpg",
+          "alt": "A skeletal figure collapsed across a wooden chair."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1771334444-3834553091740158232.webp",
+          "thumb": "/art/thumb/1771334444-3834553091740158232.webp",
+          "width": 406,
+          "height": 271,
+          "originalWidth": 406,
+          "originalHeight": 271,
+          "filename": "cold.ashtray_1771334444_3834553091740158232_78428278766.jpg",
+          "alt": "A skeletal figure collapsed across a wooden chair."
+        }
+      ]
+    },
+    {
+      "id": "1770936249",
+      "date": "2026-02-12",
+      "timestamp": 1770936249,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 7,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1770936249-3831212953169606290.webp",
+        "thumb": "/art/thumb/1770936249-3831212953169606290.webp",
+        "width": 1168,
+        "height": 1163,
+        "originalWidth": 1168,
+        "originalHeight": 1163,
+        "filename": "cold.ashtray_1770936249_3831212953169606290_78428278766.jpg",
+        "alt": "A standing figure woven into branching black forms."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1770936249-3831212953169606290.webp",
+          "thumb": "/art/thumb/1770936249-3831212953169606290.webp",
+          "width": 1168,
+          "height": 1163,
+          "originalWidth": 1168,
+          "originalHeight": 1163,
+          "filename": "cold.ashtray_1770936249_3831212953169606290_78428278766.jpg",
+          "alt": "A standing figure woven into branching black forms."
+        }
+      ]
+    },
+    {
+      "id": "1766182753",
+      "date": "2025-12-19",
+      "timestamp": 1766182753,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 8,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766182753-3791338190128975397.webp",
+        "thumb": "/art/thumb/1766182753-3791338190128975397.webp",
+        "width": 1129,
+        "height": 1191,
+        "originalWidth": 1129,
+        "originalHeight": 1191,
+        "filename": "cold.ashtray_1766182753_3791338190128975397_78428278766.jpg",
+        "alt": "Two anatomical figures holding one another."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766182753-3791338190128975397.webp",
+          "thumb": "/art/thumb/1766182753-3791338190128975397.webp",
+          "width": 1129,
+          "height": 1191,
+          "originalWidth": 1129,
+          "originalHeight": 1191,
+          "filename": "cold.ashtray_1766182753_3791338190128975397_78428278766.jpg",
+          "alt": "Two anatomical figures holding one another."
+        }
+      ]
+    },
+    {
+      "id": "1786752874",
+      "date": "2026-08-15",
+      "timestamp": 1786752874,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 9,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1786752874-3963891684404296773.webp",
+        "thumb": "/art/thumb/1786752874-3963891684404296773.webp",
+        "width": 1800,
+        "height": 2400,
+        "originalWidth": 3072,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1786752874_3963891684404296773_78428278766.jpg",
+        "alt": "A seated woman in a flowing dress rendered in graphite."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1786752874-3963891684404296773.webp",
+          "thumb": "/art/thumb/1786752874-3963891684404296773.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1786752874_3963891684404296773_78428278766.jpg",
+          "alt": "A seated woman in a flowing dress rendered in graphite."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1786752874-3963891700258588096.webp",
+          "thumb": "/art/thumb/1786752874-3963891700258588096.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1786752874_3963891700258588096_78428278766.jpg",
+          "alt": "A seated woman in a flowing dress rendered in graphite."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1786752874-3963891710442425463.webp",
+          "thumb": "/art/thumb/1786752874-3963891710442425463.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1786752874_3963891710442425463_78428278766.jpg",
+          "alt": "A seated woman in a flowing dress rendered in graphite."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1786752874-3963891718277311724.webp",
+          "thumb": "/art/thumb/1786752874-3963891718277311724.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1786752874_3963891718277311724_78428278766.jpg",
+          "alt": "A seated woman in a flowing dress rendered in graphite."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1786752874-3963891730038233576.webp",
+          "thumb": "/art/thumb/1786752874-3963891730038233576.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1786752874_3963891730038233576_78428278766.jpg",
+          "alt": "A seated woman in a flowing dress rendered in graphite."
+        }
+      ]
+    },
+    {
+      "id": "1784508106",
+      "date": "2026-07-20",
+      "timestamp": 1784508106,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 10,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1784508106-3945062239060962026.webp",
+        "thumb": "/art/thumb/1784508106-3945062239060962026.webp",
+        "width": 1809,
+        "height": 2400,
+        "originalWidth": 3088,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1784508106_3945062239060962026_78428278766.jpg",
+        "alt": "A hooded figure smoking, the face split into anatomical layers."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1784508106-3945062239060962026.webp",
+          "thumb": "/art/thumb/1784508106-3945062239060962026.webp",
+          "width": 1809,
+          "height": 2400,
+          "originalWidth": 3088,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1784508106_3945062239060962026_78428278766.jpg",
+          "alt": "A hooded figure smoking, the face split into anatomical layers."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1784508106-3945062247114008078.webp",
+          "thumb": "/art/thumb/1784508106-3945062247114008078.webp",
+          "width": 1804,
+          "height": 2400,
+          "originalWidth": 3078,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1784508106_3945062247114008078_78428278766.jpg",
+          "alt": "A hooded figure smoking, the face split into anatomical layers."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1784508106-3945062248338892333.webp",
+          "thumb": "/art/thumb/1784508106-3945062248338892333.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3024,
+          "originalHeight": 4032,
+          "filename": "cold.ashtray_1784508106_3945062248338892333_78428278766.jpg",
+          "alt": "A hooded figure smoking, the face split into anatomical layers."
+        }
+      ]
+    },
+    {
+      "id": "1772494476",
+      "date": "2026-03-02",
+      "timestamp": 1772494476,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 11,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1772494476-3844284482081449883.webp",
+        "thumb": "/art/thumb/1772494476-3844284482081449883.webp",
+        "width": 1440,
+        "height": 1920,
+        "originalWidth": 1440,
+        "originalHeight": 1920,
+        "filename": "cold.ashtray_1772494476_3844284482081449883_78428278766.jpg",
+        "alt": "A reclining figure beneath a wall of small portraits."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1772494476-3844284482081449883.webp",
+          "thumb": "/art/thumb/1772494476-3844284482081449883.webp",
+          "width": 1440,
+          "height": 1920,
+          "originalWidth": 1440,
+          "originalHeight": 1920,
+          "filename": "cold.ashtray_1772494476_3844284482081449883_78428278766.jpg",
+          "alt": "A reclining figure beneath a wall of small portraits."
+        }
+      ]
+    },
+    {
+      "id": "1766180788",
+      "date": "2025-12-19",
+      "timestamp": 1766180788,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 12,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766180788-3791321700751951624.webp",
+        "thumb": "/art/thumb/1766180788-3791321700751951624.webp",
+        "width": 1440,
+        "height": 1440,
+        "originalWidth": 1440,
+        "originalHeight": 1440,
+        "filename": "cold.ashtray_1766180788_3791321700751951624_78428278766.jpg",
+        "alt": "Three fused heads emerging from a dark anatomical mass."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766180788-3791321700751951624.webp",
+          "thumb": "/art/thumb/1766180788-3791321700751951624.webp",
+          "width": 1440,
+          "height": 1440,
+          "originalWidth": 1440,
+          "originalHeight": 1440,
+          "filename": "cold.ashtray_1766180788_3791321700751951624_78428278766.jpg",
+          "alt": "Three fused heads emerging from a dark anatomical mass."
+        }
+      ]
+    },
+    {
+      "id": "1766182371",
+      "date": "2025-12-19",
+      "timestamp": 1766182371,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 13,
+      "writing": false,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1766182371-3791334981922594985.webp",
+        "thumb": "/art/thumb/1766182371-3791334981922594985.webp",
+        "width": 1158,
+        "height": 1507,
+        "originalWidth": 1158,
+        "originalHeight": 1507,
+        "filename": "cold.ashtray_1766182371_3791334981922594985_78428278766.jpg",
+        "alt": "Three anguished anatomical heads."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1766182371-3791334981922594985.webp",
+          "thumb": "/art/thumb/1766182371-3791334981922594985.webp",
+          "width": 1158,
+          "height": 1507,
+          "originalWidth": 1158,
+          "originalHeight": 1507,
+          "filename": "cold.ashtray_1766182371_3791334981922594985_78428278766.jpg",
+          "alt": "Three anguished anatomical heads."
+        }
+      ]
+    },
+    {
+      "id": "1772158987",
+      "date": "2026-02-27",
+      "timestamp": 1772158987,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 14,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1772158987-3841469470572943938.webp",
+        "thumb": "/art/thumb/1772158987-3841469470572943938.webp",
+        "width": 1024,
+        "height": 1365,
+        "originalWidth": 1024,
+        "originalHeight": 1365,
+        "filename": "cold.ashtray_1772158987_3841469470572943938_78428278766.jpg",
+        "alt": "An upside-down portrait with dark curls."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1772158987-3841469470572943938.webp",
+          "thumb": "/art/thumb/1772158987-3841469470572943938.webp",
+          "width": 1024,
+          "height": 1365,
+          "originalWidth": 1024,
+          "originalHeight": 1365,
+          "filename": "cold.ashtray_1772158987_3841469470572943938_78428278766.jpg",
+          "alt": "An upside-down portrait with dark curls."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1772158987-3841469476033936318.webp",
+          "thumb": "/art/thumb/1772158987-3841469476033936318.webp",
+          "width": 1440,
+          "height": 1919,
+          "originalWidth": 1440,
+          "originalHeight": 1919,
+          "filename": "cold.ashtray_1772158987_3841469476033936318_78428278766.jpg",
+          "alt": "An upside-down portrait with dark curls."
+        }
+      ]
+    },
+    {
+      "id": "1784856889",
+      "date": "2026-07-24",
+      "timestamp": 1784856889,
+      "title": "Untitled",
+      "caption": null,
+      "featured": true,
+      "featuredOrder": 15,
+      "writing": true,
+      "primary": {
+        "type": "image",
+        "src": "/art/full/1784856889-3947988125116786327.webp",
+        "thumb": "/art/thumb/1784856889-3947988125116786327.webp",
+        "width": 1800,
+        "height": 2400,
+        "originalWidth": 3072,
+        "originalHeight": 4096,
+        "filename": "cold.ashtray_1784856889_3947988125116786327_78428278766.jpg",
+        "alt": "A small room with an empty framed opening."
+      },
+      "assets": [
+        {
+          "type": "image",
+          "src": "/art/full/1784856889-3947988125116786327.webp",
+          "thumb": "/art/thumb/1784856889-3947988125116786327.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1784856889_3947988125116786327_78428278766.jpg",
+          "alt": "A small room with an empty framed opening."
+        },
+        {
+          "type": "image",
+          "src": "/art/full/1784856889-3947988129965386485.webp",
+          "thumb": "/art/thumb/1784856889-3947988129965386485.webp",
+          "width": 1800,
+          "height": 2400,
+          "originalWidth": 3072,
+          "originalHeight": 4096,
+          "filename": "cold.ashtray_1784856889_3947988129965386485_78428278766.jpg",
+          "alt": "A small room with an empty framed opening."
+        }
+      ]
+    }
+  ]
+}
